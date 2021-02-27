@@ -1,0 +1,24 @@
+body {
+  background-color: #eaffd0;
+}
+
+hr {
+  background-color: white;
+  width: 10%;
+  color: red;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+}
+ h1, h2, h3{
+   color: #28527a;
+ }
+
+/*****/
+
+.avatar{
+  border-radius: 100%;
+  width: 240px;
+  height: 240px;
+}
